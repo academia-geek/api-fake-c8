@@ -1,0 +1,23 @@
+{
+  "name": "api-fake-c8",
+  "version": "1.0.0",
+  "description": "Proyecto para simular un backend mediante un api fake, empleando json-server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/academia-geek/api-fake-c8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/academia-geek/api-fake-c8/issues"
+  },
+  "homepage": "https://github.com/academia-geek/api-fake-c8#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

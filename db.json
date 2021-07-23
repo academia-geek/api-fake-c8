@@ -1,0 +1,48 @@
+{
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombres": "Mario",
+      "img_perfil": "http://carismartes.com.br/assets/global/images/avatars/avatar7_big.png",
+      "apellidos": "Pelaez",
+      "fecha_nacimiento": "1987-10-25",
+      "deportes_practica": [
+        "Futbol",
+        "Ciclismo",
+        "Caminata"
+      ],
+      "es_casado": true,
+      "notas": {
+        "nota1": 3.4,
+        "nota2": 2,
+        "nota3": 4.5
+      }
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nombre": "JavaScript Intermedio"
+    },
+    {
+      "id": 2,
+      "nombre": "React Principiante"
+    },
+    {
+      "nombre": "Curso de React Avanzado",
+      "id": 4
+    },
+    {
+      "nombre": "Curso de React Avanzado",
+      "id": 5
+    },
+    {
+      "nombre": "Curso de React Avanzado",
+      "id": 6
+    }
+  ],
+  "configuracion": {
+    "color_tema": "blue",
+    "idioma": "español"
+  }
+}
